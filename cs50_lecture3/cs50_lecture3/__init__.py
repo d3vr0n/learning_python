@@ -1,0 +1,1 @@
+# django-admin startproject cs50_lecture3
